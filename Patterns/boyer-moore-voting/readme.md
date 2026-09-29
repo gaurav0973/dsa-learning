@@ -6,6 +6,6 @@ Use when you need an element that appears **more than ⌊n/2⌋** times (or, gen
 
 ## Problems
 
-- [Majority Element](https://leetcode.com/problems/majority-element/) (LC 169) — [day-1.md](../../Day/day-1.md)
+- <a href="https://leetcode.com/problems/majority-element/" target="_blank" rel="noopener noreferrer">Majority Element</a> (LC 169) — [day-1.md](../../Day/day-1.md)
   - Input => array of size n
   - Output => return the majority element (integer)

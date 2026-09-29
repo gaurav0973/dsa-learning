@@ -1,4 +1,6 @@
-# Pattern catalog (seed list)
+# Pattern catalog (grows with your journey)
+
+**Not exhaustive.** When a new best approach does not fit any row below, create `Patterns/<new-slug>/`, add the problem there, append the slug to root `readme.md` **Patterns (index)**, and add a row here.
 
 Use web search to confirm placement. Each problem lives in **one** folder—the slug that matches the **best approach** documented in the day file.
 

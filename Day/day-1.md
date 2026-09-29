@@ -2,7 +2,7 @@ Today I solved 2 problems and these are the ones which I solved
 
 
 
-- [Majority Element](https://leetcode.com/problems/majority-element/) (LC 169)
+- <a href="https://leetcode.com/problems/majority-element/" target="_blank" rel="noopener noreferrer">Majority Element</a> (LC 169)
 
     - Input => array of size n
 
@@ -68,7 +68,7 @@ Patterns: [Boyer-Moore voting](../Patterns/boyer-moore-voting/readme.md)
 
 
 
-- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (LC 53) — Kadane's algorithm
+- <a href="https://leetcode.com/problems/maximum-subarray/" target="_blank" rel="noopener noreferrer">Maximum Subarray</a> (LC 53) — Kadane's algorithm
 
     - Input => integer array `nums`
 
